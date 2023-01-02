@@ -1,0 +1,12 @@
+.App {
+  padding-left: 15px;
+  color: lightcyan;
+}
+
+.sidebar-container {
+  text-align: left;
+}
+
+.sidebar-container ul {
+  list-style: none;
+}
