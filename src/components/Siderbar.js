@@ -1,5 +1,3 @@
-import React from "react";
-
 function Sidebar({ categories }) {
   return (
     <aside className="sidebar-container" >
@@ -7,7 +5,7 @@ function Sidebar({ categories }) {
         <div key={category.id}>
           <h3>{category.name}</h3>
           <ul>
-            {category.movie.map((movie) => (
+            {category.movies.map((movie) => (
               <li key={movie.id}>
                 {movie.title} was released in {movie.released}
               </li>
