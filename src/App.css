@@ -10,3 +10,16 @@
 .sidebar-container ul {
   list-style: none;
 }
+
+.player {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  justify-content: center;
+  width: 15pc;
+  text-align: center;
+  align-items: center;
+  background-color: black;
+  border-radius: 11px;
+  color: azure;
+}
