@@ -12,6 +12,7 @@ class App extends React.Component {
       <div className="App">
         <Provider store={store}>
           <Sidebar />
+          <hr></hr>
           <Player />
         </Provider>
 

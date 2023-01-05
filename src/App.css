@@ -1,25 +1,77 @@
 .App {
-  padding-left: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
   color: lightcyan;
 }
 
 .sidebar-container {
   text-align: left;
+  line-height: 30px;
+
 }
+
+.sidebar-container li {
+  line-height: 40px;
+
+}
+
+
 
 .sidebar-container ul {
   list-style: none;
 }
 
+
+.sidebar-container button {
+  margin-top: 10px;
+
+  margin-left: 10px;
+  width: 70px;
+  position: absolute;
+  background-color: #2ca747;
+  color: black;
+  border: none;
+  border-radius: 10px;
+}
+
+.sidebar-container button:hover {
+  /* background-color: #002ead; */
+  transition: 0.3s;
+
+}
+
+
+.sidebar-container button:active {
+  background-color: #66ff00;
+
+}
+
+.sidebar-container button:focus {
+  outline-color: transparent;
+  outline-style: solid;
+  box-shadow: 0 0 0 4px #ffffff;
+}
+
 .player {
   display: flex;
   flex-direction: column;
-  height: 150px;
   justify-content: center;
-  width: 15pc;
   text-align: center;
   align-items: center;
+
+}
+
+.player .player-container {
+  width: 450px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color: aliceblue;
   background-color: black;
-  border-radius: 11px;
-  color: azure;
+  border-radius: 10px;
+
+
 }
