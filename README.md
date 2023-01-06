@@ -2,6 +2,9 @@
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnoootown.gitbooks.io%2Fdeeperience-react-native-boilerplate%2Fcontent%2Fimages%2Freact-redux.png&f=1&nofb=1&ipt=f83fec89ee5f3338b0ffe35ea4dd8a7eb81bb052b821f065248b9987215065dc&ipo=images"></img>
 
+<span> Recomendo usar a extenção <a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd">(Redux DevTools)</a> para visualizar no detalhe os eventos.
+<img src="../ ./redux-img.jpg" ></img>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
