@@ -11,7 +11,8 @@
 <img alt="print do app" src="https://raw.githubusercontent.com/guilhermeforprojeto/redux-trybe-react/main/public/redux-img.jpg"> </img>
 
 </section>
-# Getting Started with Create React App
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
