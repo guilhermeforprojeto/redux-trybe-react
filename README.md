@@ -1,10 +1,16 @@
 # App para treinar uso de React-Redux
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnoootown.gitbooks.io%2Fdeeperience-react-native-boilerplate%2Fcontent%2Fimages%2Freact-redux.png&f=1&nofb=1&ipt=f83fec89ee5f3338b0ffe35ea4dd8a7eb81bb052b821f065248b9987215065dc&ipo=images"></img>
+<section align="center">
+<img width="300px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnoootown.gitbooks.io%2Fdeeperience-react-native-boilerplate%2Fcontent%2Fimages%2Freact-redux.png&f=1&nofb=1&ipt=f83fec89ee5f3338b0ffe35ea4dd8a7eb81bb052b821f065248b9987215065dc&ipo=images"></img>
+</section>
 
 <span> Recomendo usar a extenção <a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd">(Redux DevTools)</a> para visualizar no detalhe os eventos.
+
+<section align="center">
+
 <img alt="print do app" src="https://raw.githubusercontent.com/guilhermeforprojeto/redux-trybe-react/main/public/redux-img.jpg"> </img>
 
+</section>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
